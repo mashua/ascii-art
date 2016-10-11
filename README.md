@@ -1,3 +1,2 @@
 # ascii-art
-various ascii-art files
-extension of files is .aart, which comes from the "ascii-art" expression.
+Various ascii-art files. Extension of files is .aart, which comes directly from the "ascii-art" expression.
